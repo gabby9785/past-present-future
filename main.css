@@ -1,0 +1,82 @@
+body {
+    background: #816889;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    clear: both;
+}
+
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: #000000;
+    border: 8px groove #91ecff;
+    padding: 5px;
+    margin-left: 3px;
+}
+
+h2 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 40px;
+    text-align: left;
+    color: #000000;
+    margin-left: 3px;
+    padding-left: 5px;
+    border-left: 6px groove #91ecff
+
+}
+
+h3 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 30px;
+    text-align: left;
+    color: #000000;
+    margin-left: 3px;
+    padding-left: 5px;
+    border-left: 6px groove #ffffff
+}
+
+p {
+    font-family: "Courgette", cursive, sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    color: #ffffff;
+    width: 75%;
+    margin-left: 3px;
+}
+
+li {
+    font-family: "Courgette", cursive, sans-serif;
+    font-size: 18px;
+    color: #91ecff;
+    margin-left: 3px;
+}
+
+img {
+    max-width: 100%;
+}
+
+img.right {
+  float: right;
+  margin-right: 20px;
+  clear: right;
+  margin-left: 15px;
+}
+
+a {
+    color: #91ecff;
+}
+a:visited {
+    color: #c4ebff;
+}
+a:hover {
+    color:#ffc6dc;
+}
+
+a:active {
+    color:#e2cba5;
+}
